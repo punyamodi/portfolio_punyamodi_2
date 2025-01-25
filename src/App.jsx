@@ -5,7 +5,7 @@ import About from './Sections/about.jsx';
 import Projects from './Sections/projects.jsx';
 import Footer from './Sections/footer.jsx';
 import Experience from './Sections/experience.jsx';
-import Experience2 from "./D2/project_3D_developer_portfolio/src/components/experience.jsx";
+import Experience2 from "./D2/project_3D_developer_portfolio/src/components/Experience.jsx";
 import Contacts from "./D2/project_3D_developer_portfolio/src/components/Contact.jsx";
 import Tech from "./Sections/tech.jsx";
 
